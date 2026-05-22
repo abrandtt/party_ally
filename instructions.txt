@@ -1,0 +1,4 @@
+chop onion
+chop tomato
+chop avocados
+add lemon juice
